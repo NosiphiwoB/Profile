@@ -17,6 +17,7 @@ WE have concatenation operator where buy plus operator is used with a string val
 I alo learnt that we can find the length of  string value using (.length) .
 
 
+
 # Conclusion
 I am stil struggling with the array variables section (Access Multi-Dimensional Arrays With Indexes).Iwill continue with JS.
 
