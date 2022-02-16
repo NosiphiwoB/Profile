@@ -1,7 +1,7 @@
 ---
 Layout:
-Title:"javascript"
-Date:"2022 02 15"
+Title: "javascript"
+Date: "2022 02 15"
 ---
 
 # Introduction
