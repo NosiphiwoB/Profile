@@ -1,7 +1,7 @@
 ---
 Layout:
 Title:"javascript"
-Date:"2022 02 14"
+Date:"2022 02 15"
 ---
 
 # Introduction
@@ -18,4 +18,4 @@ We can manipulate arrays using pop,shift,unshift and push.
 We acn also create a shopping list
 
 # conclusion
-Today will be continuing with JS.gh
+Today will be continuing with JS.
