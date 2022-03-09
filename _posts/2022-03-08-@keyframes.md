@@ -55,7 +55,7 @@ I also learnt that we are able to use CSS @keyframes to change the color of a bu
   }
 </style>
 
-<img src="https://cdn.freecodecamp.org/curriculum/applied-visual-design/google-logo.png" alt="Google's Logo" />
+<img src=`"https://cdn.freecodecamp.org/curriculum/applied-visual-design/google-logo.png" alt="Google's Logo"` />
 
 
 
