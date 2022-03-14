@@ -30,9 +30,9 @@ let result = difficultSpelling.match(myRegex);
 To match characters that occurs zero or more times  we use the star (*) character 
 
 Lazy Matching,finds the smallest  possible part of the string that satifies the regex pattern.Lazy matching uses (?) character
-e.g  let text = `<h1>Winter is coming</h1>`;
+e.g  let text = <h1>Winter is coming</h1>;
 let myRegex = /<.*?>/;
-let result = text.match(myRegex); ,this will return the HTML tag <h1> and not the text `<h1>Winter is coming</h1>`.
+let result = text.match(myRegex); ,this will return the HTML tag <h1> and not the text <h1>Winter is coming</h1>.
 
 Matching Ending String Patterns,we search for patterns at the end of the string using the dollar sign ($) at the end of the regex.
 e.g  let caboose = "The last car on a train is the caboose";
