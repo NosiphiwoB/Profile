@@ -5,7 +5,7 @@ Date: "2022 03 23"
 ---
 
 # Introduction
-Today I was busy with Object Oriented Programming.Object Oriented Programming,is one of the major approaches to the software development process. In Object Oriented Programming objects and classes organize code to describe things and what they can do.
+Today I  was busy with Object Oriented Programming.Object Oriented Programming,is one of the major approaches to the software development process. In Object Oriented Programming objects and classes organize code to describe things and what they can do.
 
 
 # Body
