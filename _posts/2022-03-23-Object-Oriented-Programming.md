@@ -15,7 +15,7 @@ e.g let dog = {
   numLegs: 4,
   tails: 1
 };
-console.log(dog.name,dog.numLegs,dog.tails)
+console.log(dog.name,dog.numLegs,dog.tails) .
 
 Creating a Method on an Object.Methods adds different behavior to a object,they are properties that are functions.
 e.g let dog = {
