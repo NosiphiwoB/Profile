@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: "Functional Programming"
-Date: "2022 03 29"
+Date: "2022 03 28"
 ---
 
 # Introduction
