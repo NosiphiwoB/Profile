@@ -15,7 +15,7 @@ Bootstrap can figure out how wide your screen is and respond by resizing your ht
 We can set the image to the exactly the width of the phone's screen by adding the class called img-responsive.
 
 We can add the class called "text-center" to our h2 element to center our heading element,we can add several classes in the same element by seperating each of them with spaces.
-eg <h2 class="red-text text-center">your text</h2> .
+eg `<h2 class="red-text text-center">your text</h2>` .
 
 We can also create a button using bootstrap,button created with bootstrap looks much better than the plain html ones.Normally, your button elements with the "btn" and "btn-default" classes are only as wide as the text that they contain.Using a block element  with the class of "btn-block" makes the button stretch to fill the pages entire horizontal space and elements following it will flow onto a new line below the block.
 
