@@ -11,8 +11,10 @@ Today I was busy with the javascript assessment
 We were given a javascript which we were told not to use internet for answers.We had four questions to solve :
 
 1)Given an array of names return the longest name.
+
 e.g (['bob' , 'smith', 'longman']) longman. 
-answer:
+
+Answer:
 
 const getLongestName = () => {
 
@@ -37,8 +39,10 @@ console.log(getLongestName())
 
 2)Given a function that passes two values value1 and value2 calculate the two values
 and return the answer.
+
 e.g (1 , 2) 3
-answer :
+
+Answer :
 
 function sum(a ,b){
 
@@ -50,8 +54,10 @@ console.log(sum(6,4))
 
 
 3)given an array of values return the total amount.
+
 e.g ([1 , 2 ,3 ]) 6
-answer :
+
+Answer :
 
 const calculateLIst = (a) =>{
 
@@ -71,8 +77,10 @@ console.log(calculateLIst())
 
 
 4)Given a value, you should be able to store the values in an array  
+
 e.g [{name:"moral" , surname:"smith"} , {name:"thabo" , surname:"king"}] ["moral" , "thabo"]
-answer :
+
+Answer :
 
 function getNames(){
 
