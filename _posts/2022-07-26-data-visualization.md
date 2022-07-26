@@ -10,6 +10,7 @@ I am still busy with  data visualization.
 # Body
 You can use a callback function in the style() method to change the styling for different elements.
 
+
 e.g <body>
 
 
@@ -67,6 +68,7 @@ e.g <body>
 
 
 D3 has the attr() method to add any HTML attribute to an element, including a class name.The attr() method works the same way that style() does. It takes comma-separated values, and can use a callback function.
+
 
 e.g <style>
 
@@ -129,6 +131,7 @@ e.g <style>
 
 
 To create a simple bar chart to create a div for each data point in the array and we need to also give each dynamic height,using  a callback function in the style() method that sets height equal to the data value.
+
 
 e.g <style>
 
@@ -195,6 +198,7 @@ e.g <style>
 
 To add spaces between each bar we add a margin to the css for the bar class.
 To increase the height for the bars to show the differece in values ,we multiply the value by a number to scalethe height.
+
 
 e.g <style>
 
@@ -265,6 +269,7 @@ e.g <style>
 
 SVG --stands for Scalable Vector Graphics.Here "scalable" means that, if you zoom in or out on an object, it would not appear pixelated. It scales with the display system, whether it's on a small mobile screen or a large TV monitor.When you place a shape into the svg area, you can specify where it goes with x and y coordinates
 
+
 e.g const svg = d3.select("body")
 
 
@@ -297,6 +302,7 @@ e.g const svg = d3.select("body")
 
 For a bar chart, all of the bars should sit on the same vertical level, which means the y value stays the same (at 0) for all bars. The x value, however, needs to change as you add new bars. Remember that larger x values push items farther to the right. As you go through the array elements in dataset, the x value should increase.The attr() method in D3 accepts a callback to dynamically set that attribute.
 Here is a format :
+
 
 selection.attr("x", (d, i) => {
 
@@ -350,7 +356,7 @@ selectAll("text")
 
 
        .text((d, i) => d);
-       
+
 
 # Conclusion
 For now I am going to continue with data visualization and also try to do some project for better understanding.
