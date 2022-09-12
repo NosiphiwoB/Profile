@@ -19,4 +19,4 @@ You cab flag -name  and use it to search for something with find -name <filename
 The reason I didn't do much was because of the network,it's was very.
 
 # Conclusion
-I have decided to move on to back end development and apis.
+I have decided to move on to back end development and APIs.
