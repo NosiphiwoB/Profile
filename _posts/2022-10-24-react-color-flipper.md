@@ -13,5 +13,5 @@ This is what I have managed to do so far :
 
 https://github.com/NosiphiwoB/color-flipper-react/blob/main/color-flipper-react/src/App.js
 
-# Body
+# Conclusion
 I am going to continue with this project.
