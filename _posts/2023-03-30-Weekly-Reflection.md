@@ -18,7 +18,11 @@ This week I managed to do :
 
 
  -Some of the exercises on Microsoft Power App Maker.
+
+
  -Work on the Inventory Management System (Created Controllers and Models).
+
+
  -I created the GET and the POST methods.
 
 
@@ -27,8 +31,10 @@ Next week I want to continue with the Inventory System :
 
 
  -The PUT and DELETE method.
+
+
  -Start working on the database.
 
 
 
-For now I am struggling with the PUT method. I need to do more research on that, and also ask for help from others.
+For now I am struggling with the PUT method. I need to do more research on the PUT method, and also ask for help from others.
