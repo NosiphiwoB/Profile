@@ -17,17 +17,17 @@ so I had to start my exercises this week.
 This week I managed to do :
 
 
- Some of the exercises on Microsoft Power App Maker.
-  Work on the Inventory Management System (Created Controllers and Models).
-  I created the GET and the POST methods.
+ -Some of the exercises on Microsoft Power App Maker.
+ -Work on the Inventory Management System (Created Controllers and Models).
+ -I created the GET and the POST methods.
 
 
 Next week I want to continue with the Inventory System :
 
 
 
- The PUT and DELETE method.
- Start working on the database.
+ -The PUT and DELETE method.
+ -Start working on the database.
 
 
 
