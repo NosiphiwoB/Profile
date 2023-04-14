@@ -4,7 +4,8 @@ Title: " Weekly Reflection"
 Date: "2023 04 14"
 ---
 
-The week was hecting. I had a lot of to do, as I was preparing for the PL200 exam.
+The week was hectic
+. I had a lot of to do, as I was preparing for the PL200 exam.
 
 
 This week I managed to :
