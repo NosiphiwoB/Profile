@@ -30,7 +30,7 @@ Next week I want to continue with the Inventory System :
 
 
 
- - The PUT and DELETE method.
+ - The PUT and DELETE method. 
 
 
  - Start working on the database.
